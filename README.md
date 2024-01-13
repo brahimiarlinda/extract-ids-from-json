@@ -4,7 +4,7 @@ I extract only the IDs of buildings or sites from big json file full various inf
 
 ## How to use the script
 
-1. Consider the data.json file is a huge data file from which I would like to get only the IDs of the sites or of the building.
+1. Consider the data.json a huge data file. I need to get only the IDs of the sites or of the building.
 
 2. Run the script inside the `extract-ids.js` file like this: `node extract-ids.js`
 
